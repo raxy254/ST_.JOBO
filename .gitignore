@@ -1,3 +1,1 @@
-The file changes provided appear to be malformed or corrupted, containing only partial directory names like `"st-joseph-website-main` without proper extensions or paths. Since these don't represent actual file types that can be analyzed for appropriate gitignore rules, and there's no clear indication of build artifacts, compiled files, or other typical items requiring exclusion, no specific ignore patterns can be determined from this input.
-
-Therefore, outputting nothing as no reliable analysis can be performed.
+Nothing should be ignored since only source files (.js, .css) are in the changes.
